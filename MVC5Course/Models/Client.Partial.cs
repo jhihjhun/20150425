@@ -7,7 +7,6 @@ namespace MVC5Course.Models
     [MetadataType(typeof(ClientMetaData))]
     public partial class Client
     {
-
     }
     
     public partial class ClientMetaData
